@@ -12,8 +12,6 @@ users from creating records with information that doesn't meet your constraints.
 A good practice is to inform the user why you did not save the data, and allow
 them to correct their errors.
 
-Start with the skeleton in the `validations` directory and follow the instructions below.
- 
 ##Releases
 
 ###Release 0 : Validations on Model
