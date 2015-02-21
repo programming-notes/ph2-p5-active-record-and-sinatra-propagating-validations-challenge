@@ -51,7 +51,7 @@ Computers should serve people. Not the other way around.
 * [ActiveRecord's valid? &amp; invalid?][valid invalid]
 * [ActiveRecord's errors object][errors]
 
-[ActiveRecord validations]: http://guides.rubyonrails.org/active_record_validations.html.
+[ActiveRecord validations]: http://guides.rubyonrails.org/active_record_validations.html
 [custom validations]: http://guides.rubyonrails.org/active_record_validations.html#performing-custom-validations
 [valid invalid]: http://guides.rubyonrails.org/active_record_validations.html#valid-questionmark-and-invalid-questionmark
 [errors]: http://guides.rubyonrails.org/active_record_validations.html#validations-overview-errors
