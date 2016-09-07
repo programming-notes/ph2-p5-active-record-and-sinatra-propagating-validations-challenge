@@ -70,7 +70,7 @@ DEPENDENCIES
   rake
   rspec
   shotgun
-  sinatra
+  sinatra (~> 1.0)
   thin
 
 BUNDLED WITH
